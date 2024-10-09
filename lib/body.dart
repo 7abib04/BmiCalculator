@@ -7,6 +7,7 @@ import 'functions.dart';
 double bmi =0.0;
 int height = 160;
 int weight = 50;
+int x =10;
 String _state="";
 
 
